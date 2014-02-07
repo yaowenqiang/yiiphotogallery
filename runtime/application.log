@@ -2206,3 +2206,2173 @@ in /srv/photogallary/www/index.php (16)
 in /srv/photogallary/protected/views/photo/admin.php (63)
 in /srv/photogallary/protected/controllers/PhotoController.php (143)
 in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:38:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:40:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:41:43 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:43:23 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:44:34 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:50:13 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/layouts/column1.php (2)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/layouts/main.php (53)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 23:52:42 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:52:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:53:54 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:55:48 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:10 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:57:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:03:48 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:04:36 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:10:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:09 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:28:28 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:30:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:36:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:53:29 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:54:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:11 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 00:56:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:35 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:04:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:07:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "themeManager" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
+2014/02/08 01:10:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (129)
+in /srv/photogallary/www/index.php (16)
