@@ -1,0 +1,15 @@
+
+*** These modified files were found in JOE when it aborted on Fri Feb  7 22:15:00 2014
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+.git/MERGE_MSG
+
+*** File '.git/MERGE_MSG'
+first Merge branch 'master' of https://github.com/yaowenqiang/yiiphotogallery
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+# 
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.

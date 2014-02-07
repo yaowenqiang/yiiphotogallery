@@ -133,3 +133,2076 @@ in /srv/photogallary/protected/controllers/SiteController.php (98)
 2014/02/07 21:51:02 [trace] [system.CModule] Loading "assetManager" application component
 in /srv/photogallary/protected/controllers/SiteController.php (98)
 in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/layouts/column1.php (2)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/layouts/main.php (53)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 22:47:03 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/layouts/column1.php (2)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/layouts/main.php (53)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+2014/02/07 22:47:13 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/controllers/SiteController.php (32)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:47:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:49:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:36 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:36 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:36 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:36 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:36 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:36 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:51:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'photogallery.album' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `album`.
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:33 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'photogallery.album' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `album`.
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:52:55 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'photogallery.album' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `album`.
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:53:46 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:24 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:54:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:08 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:21 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:55:57 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:10 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:20 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:56:51 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:15 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:30 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:57:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:58:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:03 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:08 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:15 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:22 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:38 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:50 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_comment`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_option`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_tag`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 22:59:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.base.CModule] Loading "gii" module
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:00:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.web.filters.CFilterChain] Running filter AlbumController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.ar.CActiveRecord] Album.count()
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_album`
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_album`
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_album` `t`
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.ar.CActiveRecord] Album.findAll()
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_album` `t` LIMIT 10
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:03 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/album/index.php (20)
+in /srv/photogallary/protected/controllers/AlbumController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.web.filters.CFilterChain] Running filter UserController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.ar.CActiveRecord] User.count()
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_user` `t`
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.ar.CActiveRecord] User.findAll()
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_user` `t` LIMIT 10
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/user/index.php (20)
+in /srv/photogallary/protected/controllers/UserController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:28 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.db.ar.CActiveRecord] Photo.findByPk()
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` WHERE `t`.`id`=5 LIMIT 1
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:38 [trace] [system.CModule] Loading "format" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:01:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/index.php (20)
+in /srv/photogallary/protected/controllers/PhotoController.php (128)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.db.ar.CActiveRecord] Photo.findByPk()
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` WHERE `t`.`id`=4 LIMIT 1
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (55)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:02:27 [trace] [system.CModule] Loading "format" application component
+in /srv/photogallary/protected/views/photo/view.php (34)
+in /srv/photogallary/protected/controllers/PhotoController.php (56)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/site/login.php (23)
+in /srv/photogallary/protected/controllers/SiteController.php (98)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/site/login.php (30)
+in /srv/photogallary/protected/controllers/SiteController.php (98)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/site/login.php (52)
+in /srv/photogallary/protected/controllers/SiteController.php (98)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (98)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/protected/views/layouts/main.php (35)
+in /srv/photogallary/protected/views/layouts/column1.php (6)
+in /srv/photogallary/protected/controllers/SiteController.php (98)
+2014/02/07 23:03:54 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/controllers/SiteController.php (98)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/protected/models/LoginForm.php (71)
+in /srv/photogallary/protected/controllers/SiteController.php (94)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/protected/models/LoginForm.php (71)
+in /srv/photogallary/protected/controllers/SiteController.php (94)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/admin.php (15)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/_search.php (12)
+in /srv/photogallary/protected/views/photo/admin.php (40)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+2014/02/07 23:04:03 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:03 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:04 [trace] [system.CModule] Loading "format" application component
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.db.ar.CActiveRecord] Photo.findByPk()
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (89)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (89)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (89)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (89)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (89)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` WHERE `t`.`id`=1 LIMIT 1
+in /srv/photogallary/protected/controllers/PhotoController.php (155)
+in /srv/photogallary/protected/controllers/PhotoController.php (89)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/_form.php (16)
+in /srv/photogallary/protected/views/photo/update.php (21)
+in /srv/photogallary/protected/controllers/PhotoController.php (103)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/_form.php (74)
+in /srv/photogallary/protected/views/photo/update.php (21)
+in /srv/photogallary/protected/controllers/PhotoController.php (103)
+2014/02/07 23:04:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/layouts/main.php (43)
+in /srv/photogallary/protected/views/layouts/column2.php (22)
+in /srv/photogallary/protected/controllers/PhotoController.php (103)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "log" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "request" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "urlManager" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.web.filters.CFilterChain] Running filter PhotoController.filteraccessControl()
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "user" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "session" application component
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "db" application component
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_photo`
+in /srv/photogallary/protected/controllers/PhotoController.php (136)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "clientScript" application component
+in /srv/photogallary/protected/views/photo/admin.php (15)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in /srv/photogallary/protected/views/photo/_search.php (12)
+in /srv/photogallary/protected/views/photo/admin.php (40)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+2014/02/07 23:04:17 [trace] [system.db.ar.CActiveRecord] Photo.count()
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_photo` `t`
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.db.ar.CActiveRecord] Photo.findAll()
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_photo` `t` LIMIT 10
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "assetManager" application component
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
+2014/02/07 23:04:17 [trace] [system.CModule] Loading "format" application component
+in /srv/photogallary/protected/views/photo/admin.php (63)
+in /srv/photogallary/protected/controllers/PhotoController.php (143)
+in /srv/photogallary/www/index.php (16)
