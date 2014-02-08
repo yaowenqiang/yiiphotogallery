@@ -8,9 +8,9 @@
         <?php
             echo CHtml::link(
               //  'link text or image',
-                CHtml::image('/uploads/thumbs/'.$data->filename,
+                CHtml::image($data->getThumb(),
                         CHtml::encode($data->alt_text),array()),
-                '/uploads/'.$data->filename,
+                $data->getUrl(),
                 array('rel'=>'colorBox','title'=>CHtml::encode($data->alt_text))
             );
         ?>

@@ -23,6 +23,20 @@ class Photo extends CActiveRecord
 	/**
 	 * @return string the associated database table name
 	 */
+    private $_uploads;
+    public function getImageParam(){
+        if (empty($this->_uploads)) {
+            $this->_uploads = Yii::app()->params['uploads'].'/';
+        }
+        return $this->_uploads;
+    }
+    public function getUrl(){
+        return $this->getImageParam().CHtml::encode($this->filename); 
+    }
+    public function getThumb(){
+        return $this->getImageParam().'thumbs/'.CHtml::encode($this->filename); 
+    }
+
 	public function tableName()
 	{
 		return 'tbl_photo';
