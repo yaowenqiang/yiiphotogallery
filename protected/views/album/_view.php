@@ -4,19 +4,33 @@
 ?>
 
 <div class="view">
-    <div class='imgWrap'>
-        <?php
-            echo CHtml::link(
-              //  'link text or image',
-                CHtml::image('/upload/thumbs/'.$data->filename,
-                        CHtml::encode($data->alt_text),array()),
-                '/upload/'.$data->filename,
-                array('rel'=>'colorBox','title'=>CHtml::encode($data->alt_text))
-            );
-        ?>
-    </div>
 
-    <div class='caption'>
-        <?php echo CHtml::encode($data->caption);?>
-    </div>
+	<b><?php echo CHtml::encode($data->getAttributeLabel('id')); ?>:</b>
+	<?php echo CHtml::link(CHtml::encode($data->id), array('view', 'id'=>$data->id)); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('name')); ?>:</b>
+	<?php echo CHtml::encode($data->name); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('tags')); ?>:</b>
+	<?php echo CHtml::encode($data->tags); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('owner_id')); ?>:</b>
+	<?php echo CHtml::encode($data->owner_id); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('shareable')); ?>:</b>
+	<?php echo CHtml::encode($data->shareable); ?>
+	<br />
+
+<?php
+/*
+	<b><?php echo CHtml::encode($data->getAttributeLabel('create_dt')); ?>:</b>
+	<?php echo CHtml::encode($data->create_dt); ?>
+	<br />
+ */
+?>
+
 </div>

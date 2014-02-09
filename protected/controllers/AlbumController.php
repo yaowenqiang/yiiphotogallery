@@ -65,13 +65,17 @@ class AlbumController extends Controller
 		$model=new Album;
 
 		// Uncomment the following line if AJAX validation is needed
-		// $this->performAjaxValidation($model);
+		 $this->performAjaxValidation($model);
 
 		if(isset($_POST['Album']))
 		{
 			$model->attributes=$_POST['Album'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->id));
+			if($model->save()){
+                Yii::app()->user->setFlash('saved','Data saved');
+				$this->redirect(array('update','id'=>$model->id));
+            } else {
+                Yii::app()->user->setFlash('failure','Data Not saved');
+            }
 		}
 
 		$this->render('create',array(

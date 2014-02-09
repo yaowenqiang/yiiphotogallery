@@ -33,15 +33,29 @@ class Album extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('created_dt', 'required'),
-			array('owner_id, shareable', 'numerical', 'integerOnly'=>true),
+			array('name, tags,description', 'required'),
+			array('owner_id, shareable,category_id', 'numerical', 'integerOnly'=>true),
 			array('name, tags', 'length', 'max'=>255),
+			array('description', 'length', 'max'=>1024),
+            array('description', 'match', 'pattern'=>'/[\w]+/u'), // \-\_\'\ \,\p{L}0-9
+
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
 			array('id, name, tags, owner_id, shareable, created_dt', 'safe', 'on'=>'search'),
 		);
 	}
-
+    protected function beforeSave()
+    {
+        if (parent::beforeSave()) {
+            if ($this->isNewRecord) {
+                $this->created_dt = new CDbExpression("NOW()");
+                //$this->owner_id = Yii::app()->user->id;
+            }
+            return true;
+        }else{
+            return false;
+        }
+    }
 	/**
 	 * @return array relational rules.
 	 */
@@ -54,7 +68,15 @@ class Album extends CActiveRecord
 			'photos' => array(self::HAS_MANY, 'Photo', 'album_id'),
 		);
 	}
-
+    public function scopes()
+    {
+        return  array(
+            'shareable'=>array(
+                'order'=>'created_dt DESC',
+                'condition'=>'shareable=1'
+            )
+        );
+    }
 	/**
 	 * @return array customized attribute labels (name=>label)
 	 */
@@ -65,6 +87,8 @@ class Album extends CActiveRecord
 			'name' => 'Name',
 			'tags' => 'Tags',
 			'owner_id' => 'Owner',
+			'category_id' => 'Category',
+			'description' => 'Description',
 			'shareable' => 'Shareable',
 			'created_dt' => 'Created Dt',
 		);
@@ -88,12 +112,9 @@ class Album extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('id',$this->id);
 		$criteria->compare('name',$this->name,true);
 		$criteria->compare('tags',$this->tags,true);
-		$criteria->compare('owner_id',$this->owner_id);
-		$criteria->compare('shareable',$this->shareable);
-		$criteria->compare('created_dt',$this->created_dt,true);
+		$criteria->compare('Description',$this->Description);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

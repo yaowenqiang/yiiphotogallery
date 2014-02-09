@@ -12,11 +12,13 @@
 	// controller action is handling ajax validation correctly.
 	// There is a call to performAjaxValidation() commented in generated controller code.
 	// See class documentation of CActiveForm for details on this.
-	'enableAjaxValidation'=>false,
+	'enableAjaxValidation'=>true,
 )); ?>
-
-	<p class="note">Fields with <span class="required">*</span> are required.</p>
-
+    <?php
+        foreach (Yii::app()->user->getFlashes() as $type=>$flush) {
+            echo "<div class='{$type}'>{$flush}</div>";
+        }
+    ?>
 	<?php echo $form->errorSummary($model); ?>
 
 	<div class="row">
@@ -32,6 +34,11 @@
 	</div>
 
 	<div class="row">
+		<?php echo $form->labelEx($model,'description'); ?>
+		<?php echo $form->textArea($model,'description',array('cols'=>40,'rows'=>12)); ?>
+		<?php echo $form->error($model,'description'); ?>
+	</div>
+	<div class="row">
 		<?php echo $form->labelEx($model,'owner_id'); ?>
 		<?php echo $form->textField($model,'owner_id'); ?>
 		<?php echo $form->error($model,'owner_id'); ?>
@@ -39,14 +46,8 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'shareable'); ?>
-		<?php echo $form->textField($model,'shareable'); ?>
+		<?php echo $form->checkbox($model,'shareable'); ?>
 		<?php echo $form->error($model,'shareable'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'created_dt'); ?>
-		<?php echo $form->textField($model,'created_dt'); ?>
-		<?php echo $form->error($model,'created_dt'); ?>
 	</div>
 
 	<div class="row buttons">
